@@ -2,6 +2,7 @@
 layout: note
 title: Starting Out
 meta: The beginning
+permalink: starting-out
 source:
 category: personal
 ---
